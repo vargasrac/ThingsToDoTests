@@ -33,6 +33,10 @@ dotnet run
 ### Using Visual Studio
 Open the solution file (.sln) in Visual Studio.
 Press F5 to build and run the application.
+### ThigsToDo.dll reference
+ThingsToDo.dll reference can be found on \Libraries\ThigsToDo.dll relative path. 
+When the ThingsToDo application is changing, this reference must be changed.
+It is planned that this repository will merged with the ThingToDo, so the reference no longer needs to be changed manually.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
